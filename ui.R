@@ -1,7 +1,7 @@
 library(shiny)
 
 shinyUI(fluidPage(
-  titlePanel("Reactive Stock Visualization"),
+  titlePanel("Reactive Stock Forecast and Visualization"),
   
   sidebarLayout(
     sidebarPanel(
